@@ -41,3 +41,26 @@ Challenge Per School Summary
 <br/>
 <br/>
 ### Thomas High School Performance
+After the district summary and per school summaries were completed, a analysis to rank the schools based on overall passing percentage was completed. Once again, removing the 9th grade student scores had little to no effect. However, the scores and percentages did see an increase in the tenths decimal place. Thomas High School remains the second highest performing high school based off of overall passing percentage.
+<br/>
+Original Top 5
+![original_topbottom](https://user-images.githubusercontent.com/82389466/118378770-eae36580-b5a3-11eb-996b-9cddd2061a84.png)
+<br/>
+Challenge Top 5
+![challenge_topbottom](https://user-images.githubusercontent.com/82389466/118378776-f46ccd80-b5a3-11eb-94cf-0b0d86dd8e66.png)
+<br/>
+<br/>
+### Additional Changes
+- Math and reading scores by grade did not see a significant change either, but did see an increase less than a percent for both math and reading in the percentage passing.
+- The NaN values also had no affect on the average scores by their spending per student, size, and type.
+![challenge_scores_spending](https://user-images.githubusercontent.com/82389466/118379146-883f9900-b5a6-11eb-9e94-b1d6c4dd84f5.png)
+![challenge_size_scores](https://user-images.githubusercontent.com/82389466/118379152-8a095c80-b5a6-11eb-8ff4-bc3f2c7f1106.png)
+![challenge_type_scores](https://user-images.githubusercontent.com/82389466/118379161-8bd32000-b5a6-11eb-9472-337f201d2721.png)
+<br/>
+<br/>
+## Summary
+Changes Observed
+1. All reading and math averages for 9th grade students at Thomas High School were replaced with NaN values.
+2. Overall passing percentages in reading and math for Thomas High School increased slightly.
+3. Initially, without recalculating passing percentages based on new student counts, the passing percentages dropped into the 60% range.
+4. Overall average grades for Thomas High School increased slightly.
