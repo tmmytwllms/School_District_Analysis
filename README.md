@@ -9,6 +9,7 @@
   -Jupyter Notebook
   -Pandas
   -Numpy
+  -Microsoft Excel 2019
 <br/>
 <br/>
 
